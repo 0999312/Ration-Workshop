@@ -1,0 +1,7 @@
+{
+   "parent" : "rationwork:item/can_normal",
+   "textures" : {
+     "0": "rationwork:models/can",
+	 "1": "rationwork:models/iron_can"
+   }
+}

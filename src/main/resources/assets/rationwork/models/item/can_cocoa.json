@@ -1,0 +1,8 @@
+{
+   "parent" : "rationwork:item/can_food",
+   "textures" : {
+     "0": "rationwork:models/can",
+	 "1": "rationwork:models/iron_can",
+	 "2": "coffeework:model/coffee/cocoa"
+   }
+}
